@@ -1,0 +1,99 @@
+A B C D
+A B C D
+A B C D
+A B C D
+A B C D
+A B C D
+A B C D
+A B C D
+A B C D
+A B C D
+A B C D
+A B C D
+A B C D
+A B C D
+A B C D
+A B C D
+A B C D
+A B C D
+A B C D
+A B C D
+B D E F
+B D E F
+B D E F
+B D E F
+B D E F
+B D E F
+B D E F
+B D E F
+B D E F
+B D E F
+B D E F
+B D E F
+B D E F
+B D E F
+B D E F
+B D E F
+B D E F
+B D E F
+B D E F
+B D E F
+F A C
+F A C
+F A C
+F A C
+F A C
+F A C
+F A C
+F A C
+F A C
+F A C
+F A C
+F A C
+F A C
+F A C
+F A C
+F A C
+F A C
+F A C
+F A C
+F A C
+D C E F
+D C E F
+D C E F
+D C E F
+D C E F
+D C E F
+D C E F
+D C E F
+D C E F
+D C E F
+D C E F
+D C E F
+D C E F
+D C E F
+D C E F
+D C E F
+D C E F
+D C E F
+D C E F
+D C E F
+C D B
+C D B
+C D B
+C D B
+C D B
+C D B
+C D B
+C D B
+C D B
+C D B
+C D B
+C D B
+C D B
+C D B
+C D B
+C D B
+C D B
+C D B
+C D B

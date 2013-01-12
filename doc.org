@@ -1,0 +1,6 @@
+* Rules
+** Quota
+   (valid_votes / (positions + 1)) + 1
+   
+** Invalid votes
+   White and invalid are invalid. motherfucker.
